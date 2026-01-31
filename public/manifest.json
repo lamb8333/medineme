@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "8gsql3.csb",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "8gsql3.csb",
+  "start_url": "https://8gsql3.csb.app/",
+  "theme_color": "#ffffff"
+}
